@@ -1,0 +1,20 @@
+body {
+	
+background-image: url(pink.jpg);
+	color: #8A1B57;
+	background-color: #69555A;
+	font-family: "helvetica", cursive, sans-serif
+}
+rgb(27, 22, 207)
+				a:link {color: #7E554D;}
+				a:visited {color: #7E554D;}
+				a:hover {color: #BD2570;}
+				a:active {color: #0000FF;}
+
+img {
+	border-style: solid;
+	border-color: #F5E4C7;
+}
+.title {text-align: center}
+.image {text-align: center}
+.white {color: #821A26;}
